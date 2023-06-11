@@ -18,7 +18,7 @@ To run the web-app execute 'python3 run.py' in ther terminal provided the curren
 ## Difficulties encountered
 The main reason for my failure to create a working DBMS was that I initially was overly ambitious choosing a too complex system to implement. As the project deadline grew closer I pivoted to a simpler system, but then I encountered a lot of configuration problems which came down to wrong port configurations and depreciated python dependencies. I hope that I have demonstrated a sufficient understanding of RA/SQL queries and relational databases in the mandatory assignments, as this project has not been a success. 
 
-I urge you to consider the fact that I have been working on my own and furthermore is learning in real-time how to study with ADHD. Thank you for reading my submission. 
+I urge you to consider the fact that I have been working without a group, and furthermore that I am learning in real-time how to study with ADHD. Thank you for reading my submission. 
 
 
 
